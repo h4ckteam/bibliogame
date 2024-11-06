@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {View, Text, StyleSheet, Image} from 'react-native';
+import { View, Text, StyleSheet, Image } from 'react-native';
 
 const Header = () => {
   return (
@@ -12,14 +12,14 @@ const Header = () => {
         <Text
           style={StyleSheet.flatten([
             styles.textSize,
-            {color: '#835525', marginLeft: 8},
+            { color: '#835525', marginLeft: 8 },
           ])}>
-          Oi, Rafael
+          Oi, Fábio
         </Text>
       </View>
 
       <View style={styles.circle}>
-        <Text style={StyleSheet.flatten([styles.textSize, {color: '#FF6347'}])}>
+        <Text style={StyleSheet.flatten([styles.textSize, { color: '#FF6347' }])}>
           1200
         </Text>
       </View>

@@ -1,14 +1,16 @@
 import * as React from 'react';
-import {View, StyleSheet} from 'react-native';
+import { View, StyleSheet } from 'react-native';
 
 import Header from './componets/header';
 import TargetWeek from './componets/targetWeek';
+import ForYou from './componets/forYou';
 
 const Layout = () => {
   return (
     <View style={styles.container}>
       <Header />
       <TargetWeek />
+      <ForYou />
     </View>
   );
 };
