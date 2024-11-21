@@ -12,11 +12,22 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		1433778B20B47CDA73F64131 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 48733720C19C860781ED017C /* PrivacyInfo.xcprivacy */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		B88D814A77E54B34E3E2564E /* libPods-bibliogame.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DA818C99EB1FE778B7702323 /* libPods-bibliogame.a */; };
-		E13D941CD4342DF317A0CAC6 /* libPods-bibliogame-bibliogameTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19ED3667C7A98CE522435740 /* libPods-bibliogame-bibliogameTests.a */; };
-		3741AE8639B34994B7B6B696 /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81E36EE098AC46DE8BCD24E1 /* OpenSans-Italic.ttf */; };
 		314959030F8147399594D3CF /* OpenSans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BCED056AE6E547A485F84990 /* OpenSans.ttf */; };
+		3741AE8639B34994B7B6B696 /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81E36EE098AC46DE8BCD24E1 /* OpenSans-Italic.ttf */; };
+		3DF7592881C76FE21D0C86F8 /* libPods-bibliogame-bibliogameTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BFC2D29388608FC5024184C /* libPods-bibliogame-bibliogameTests.a */; };
+		77CB1C1F5910CE3510268FEF /* libPods-bibliogame.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 968102F1A7396A860ED69570 /* libPods-bibliogame.a */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AEF7A17243994008ACDE0A73 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93D0A916A755474098D5FDCA /* OpenSans-Bold.ttf */; };
+		FA024765F04845588E465D88 /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9DD6A18A28EC453FB7C5847E /* OpenSans-BoldItalic.ttf */; };
+		F5B10759BC0644D4B4600B42 /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F26D313A15C54FCA8D020B0F /* OpenSans-ExtraBold.ttf */; };
+		BBC5811E7E0E48A790E422F8 /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1C5F73DE9B5B422EB1FB83ED /* OpenSans-ExtraBoldItalic.ttf */; };
+		B781A3D46DC2429D8CE6DA8A /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65165E26260A4B14990FD2AF /* OpenSans-Light.ttf */; };
+		8DCBF1225BD946C5808E9B62 /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67D7F2C90CFC4EDB9FC1928D /* OpenSans-LightItalic.ttf */; };
+		7DACDD218DF64B47BC3331A3 /* OpenSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D78E20896919414DA677E798 /* OpenSans-Medium.ttf */; };
+		A2A098752EB5468FBEEF53FD /* OpenSans-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D99D78D2CADD4701B41A6110 /* OpenSans-MediumItalic.ttf */; };
+		012E608A66E64935980135D9 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B37372FE887140158823FB52 /* OpenSans-Regular.ttf */; };
+		0B5623A0E64047D882B90C75 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D5663F09DEC4B409B7FCB37 /* OpenSans-SemiBold.ttf */; };
+		EC79D5E25C1946F1B4DD6D01 /* OpenSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1158DBEDD3B45AF80D8266D /* OpenSans-SemiBoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +44,7 @@
 		00E356EE1AD99517003FC87E /* bibliogameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bibliogameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* bibliogameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bibliogameTests.m; sourceTree = "<group>"; };
+		0B2C406B4161AF8C03E863E0 /* Pods-bibliogame-bibliogameTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame-bibliogameTests.debug.xcconfig"; path = "Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests.debug.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* bibliogame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bibliogame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = bibliogame/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = bibliogame/AppDelegate.mm; sourceTree = "<group>"; };
@@ -40,17 +52,27 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = bibliogame/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = bibliogame/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = bibliogame/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		19ED3667C7A98CE522435740 /* libPods-bibliogame-bibliogameTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bibliogame-bibliogameTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		258EDB98D4E52AF543FC528B /* Pods-bibliogame-bibliogameTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame-bibliogameTests.debug.xcconfig"; path = "Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests.debug.xcconfig"; sourceTree = "<group>"; };
+		1DCED9FC28703AF1157DF41D /* Pods-bibliogame-bibliogameTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame-bibliogameTests.release.xcconfig"; path = "Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests.release.xcconfig"; sourceTree = "<group>"; };
 		48733720C19C860781ED017C /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = bibliogame/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		4BFC2D29388608FC5024184C /* libPods-bibliogame-bibliogameTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bibliogame-bibliogameTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = bibliogame/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		96A4D18EB00F3EE18C539032 /* Pods-bibliogame.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame.debug.xcconfig"; path = "Target Support Files/Pods-bibliogame/Pods-bibliogame.debug.xcconfig"; sourceTree = "<group>"; };
-		AC337317A5A5C858A614F068 /* Pods-bibliogame-bibliogameTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame-bibliogameTests.release.xcconfig"; path = "Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests.release.xcconfig"; sourceTree = "<group>"; };
-		DA818C99EB1FE778B7702323 /* libPods-bibliogame.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bibliogame.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81E36EE098AC46DE8BCD24E1 /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Italic.ttf"; path = "../src/assets/fonts/OpenSans-Italic.ttf"; sourceTree = "<group>"; };
+		968102F1A7396A860ED69570 /* libPods-bibliogame.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-bibliogame.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCED056AE6E547A485F84990 /* OpenSans.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = OpenSans.ttf; path = ../src/assets/fonts/OpenSans.ttf; sourceTree = "<group>"; };
+		DD0E5F95F96CD12BE0280545 /* Pods-bibliogame.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame.debug.xcconfig"; path = "Target Support Files/Pods-bibliogame/Pods-bibliogame.debug.xcconfig"; sourceTree = "<group>"; };
+		E1DF325241A4BDED4DE95D29 /* Pods-bibliogame.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame.release.xcconfig"; path = "Target Support Files/Pods-bibliogame/Pods-bibliogame.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F04ADFA30DBDC377CA19E6C4 /* Pods-bibliogame.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-bibliogame.release.xcconfig"; path = "Target Support Files/Pods-bibliogame/Pods-bibliogame.release.xcconfig"; sourceTree = "<group>"; };
-		81E36EE098AC46DE8BCD24E1 /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; name = "OpenSans-Italic.ttf"; path = "../src/assets/fonts/OpenSans-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BCED056AE6E547A485F84990 /* OpenSans.ttf */ = {isa = PBXFileReference; name = "OpenSans.ttf"; path = "../src/assets/fonts/OpenSans.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		93D0A916A755474098D5FDCA /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; name = "OpenSans-Bold.ttf"; path = "../src/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9DD6A18A28EC453FB7C5847E /* OpenSans-BoldItalic.ttf */ = {isa = PBXFileReference; name = "OpenSans-BoldItalic.ttf"; path = "../src/assets/fonts/OpenSans-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F26D313A15C54FCA8D020B0F /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; name = "OpenSans-ExtraBold.ttf"; path = "../src/assets/fonts/OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1C5F73DE9B5B422EB1FB83ED /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "OpenSans-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		65165E26260A4B14990FD2AF /* OpenSans-Light.ttf */ = {isa = PBXFileReference; name = "OpenSans-Light.ttf"; path = "../src/assets/fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		67D7F2C90CFC4EDB9FC1928D /* OpenSans-LightItalic.ttf */ = {isa = PBXFileReference; name = "OpenSans-LightItalic.ttf"; path = "../src/assets/fonts/OpenSans-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D78E20896919414DA677E798 /* OpenSans-Medium.ttf */ = {isa = PBXFileReference; name = "OpenSans-Medium.ttf"; path = "../src/assets/fonts/OpenSans-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D99D78D2CADD4701B41A6110 /* OpenSans-MediumItalic.ttf */ = {isa = PBXFileReference; name = "OpenSans-MediumItalic.ttf"; path = "../src/assets/fonts/OpenSans-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B37372FE887140158823FB52 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5D5663F09DEC4B409B7FCB37 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "OpenSans-SemiBold.ttf"; path = "../src/assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E1158DBEDD3B45AF80D8266D /* OpenSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "OpenSans-SemiBoldItalic.ttf"; path = "../src/assets/fonts/OpenSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E13D941CD4342DF317A0CAC6 /* libPods-bibliogame-bibliogameTests.a in Frameworks */,
+				3DF7592881C76FE21D0C86F8 /* libPods-bibliogame-bibliogameTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,7 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B88D814A77E54B34E3E2564E /* libPods-bibliogame.a in Frameworks */,
+				77CB1C1F5910CE3510268FEF /* libPods-bibliogame.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,8 +131,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				DA818C99EB1FE778B7702323 /* libPods-bibliogame.a */,
-				19ED3667C7A98CE522435740 /* libPods-bibliogame-bibliogameTests.a */,
+				968102F1A7396A860ED69570 /* libPods-bibliogame.a */,
+				4BFC2D29388608FC5024184C /* libPods-bibliogame-bibliogameTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -150,23 +172,34 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				96A4D18EB00F3EE18C539032 /* Pods-bibliogame.debug.xcconfig */,
-				F04ADFA30DBDC377CA19E6C4 /* Pods-bibliogame.release.xcconfig */,
-				258EDB98D4E52AF543FC528B /* Pods-bibliogame-bibliogameTests.debug.xcconfig */,
-				AC337317A5A5C858A614F068 /* Pods-bibliogame-bibliogameTests.release.xcconfig */,
+				DD0E5F95F96CD12BE0280545 /* Pods-bibliogame.debug.xcconfig */,
+				E1DF325241A4BDED4DE95D29 /* Pods-bibliogame.release.xcconfig */,
+				0B2C406B4161AF8C03E863E0 /* Pods-bibliogame-bibliogameTests.debug.xcconfig */,
+				1DCED9FC28703AF1157DF41D /* Pods-bibliogame-bibliogameTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
 		DF03EE70A44A4332B0FD3229 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				81E36EE098AC46DE8BCD24E1 /* OpenSans-Italic.ttf */,
 				BCED056AE6E547A485F84990 /* OpenSans.ttf */,
+				93D0A916A755474098D5FDCA /* OpenSans-Bold.ttf */,
+				9DD6A18A28EC453FB7C5847E /* OpenSans-BoldItalic.ttf */,
+				F26D313A15C54FCA8D020B0F /* OpenSans-ExtraBold.ttf */,
+				1C5F73DE9B5B422EB1FB83ED /* OpenSans-ExtraBoldItalic.ttf */,
+				65165E26260A4B14990FD2AF /* OpenSans-Light.ttf */,
+				67D7F2C90CFC4EDB9FC1928D /* OpenSans-LightItalic.ttf */,
+				D78E20896919414DA677E798 /* OpenSans-Medium.ttf */,
+				D99D78D2CADD4701B41A6110 /* OpenSans-MediumItalic.ttf */,
+				B37372FE887140158823FB52 /* OpenSans-Regular.ttf */,
+				5D5663F09DEC4B409B7FCB37 /* OpenSans-SemiBold.ttf */,
+				E1158DBEDD3B45AF80D8266D /* OpenSans-SemiBoldItalic.ttf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -175,12 +208,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "bibliogameTests" */;
 			buildPhases = (
-				8CE2C3D54F67AA1168E55518 /* [CP] Check Pods Manifest.lock */,
+				624161EF5F99A057ADD432AB /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				725065EC28C1AF8DFD14EFFA /* [CP] Embed Pods Frameworks */,
-				8D62C5CAAB19DB935D4B2FE9 /* [CP] Copy Pods Resources */,
+				B2FBD9D7CDDD5CA845824494 /* [CP] Embed Pods Frameworks */,
+				2A15793D730E2AD0CA1160C1 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -196,13 +229,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "bibliogame" */;
 			buildPhases = (
-				47C505F101CD2FFF03D0581E /* [CP] Check Pods Manifest.lock */,
+				F2A7BDFEEE55A24B4FE7BF48 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				D0FD3DF33693C38B7FB363D2 /* [CP] Embed Pods Frameworks */,
-				DC7B2C9B0B9C7EED3610AFB8 /* [CP] Copy Pods Resources */,
+				2C51BAF713A6302DFE34996A /* [CP] Embed Pods Frameworks */,
+				228C9A81CD2F19058A58A0CE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -266,6 +299,17 @@
 				1433778B20B47CDA73F64131 /* PrivacyInfo.xcprivacy in Resources */,
 				3741AE8639B34994B7B6B696 /* OpenSans-Italic.ttf in Resources */,
 				314959030F8147399594D3CF /* OpenSans.ttf in Resources */,
+				AEF7A17243994008ACDE0A73 /* OpenSans-Bold.ttf in Resources */,
+				FA024765F04845588E465D88 /* OpenSans-BoldItalic.ttf in Resources */,
+				F5B10759BC0644D4B4600B42 /* OpenSans-ExtraBold.ttf in Resources */,
+				BBC5811E7E0E48A790E422F8 /* OpenSans-ExtraBoldItalic.ttf in Resources */,
+				B781A3D46DC2429D8CE6DA8A /* OpenSans-Light.ttf in Resources */,
+				8DCBF1225BD946C5808E9B62 /* OpenSans-LightItalic.ttf in Resources */,
+				7DACDD218DF64B47BC3331A3 /* OpenSans-Medium.ttf in Resources */,
+				A2A098752EB5468FBEEF53FD /* OpenSans-MediumItalic.ttf in Resources */,
+				012E608A66E64935980135D9 /* OpenSans-Regular.ttf in Resources */,
+				0B5623A0E64047D882B90C75 /* OpenSans-SemiBold.ttf in Resources */,
+				EC79D5E25C1946F1B4DD6D01 /* OpenSans-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,46 +332,58 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		47C505F101CD2FFF03D0581E /* [CP] Check Pods Manifest.lock */ = {
+		228C9A81CD2F19058A58A0CE /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-bibliogame-checkManifestLockResult.txt",
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		725065EC28C1AF8DFD14EFFA /* [CP] Embed Pods Frameworks */ = {
+		2A15793D730E2AD0CA1160C1 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2C51BAF713A6302DFE34996A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		8CE2C3D54F67AA1168E55518 /* [CP] Check Pods Manifest.lock */ = {
+		624161EF5F99A057ADD432AB /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -349,55 +405,43 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		8D62C5CAAB19DB935D4B2FE9 /* [CP] Copy Pods Resources */ = {
+		B2FBD9D7CDDD5CA845824494 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D0FD3DF33693C38B7FB363D2 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame-bibliogameTests/Pods-bibliogame-bibliogameTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		DC7B2C9B0B9C7EED3610AFB8 /* [CP] Copy Pods Resources */ = {
+		F2A7BDFEEE55A24B4FE7BF48 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Copy Pods Resources";
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-bibliogame-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-bibliogame/Pods-bibliogame-resources.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -433,7 +477,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 258EDB98D4E52AF543FC528B /* Pods-bibliogame-bibliogameTests.debug.xcconfig */;
+			baseConfigurationReference = 0B2C406B4161AF8C03E863E0 /* Pods-bibliogame-bibliogameTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -460,7 +504,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AC337317A5A5C858A614F068 /* Pods-bibliogame-bibliogameTests.release.xcconfig */;
+			baseConfigurationReference = 1DCED9FC28703AF1157DF41D /* Pods-bibliogame-bibliogameTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -484,7 +528,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 96A4D18EB00F3EE18C539032 /* Pods-bibliogame.debug.xcconfig */;
+			baseConfigurationReference = DD0E5F95F96CD12BE0280545 /* Pods-bibliogame.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -511,7 +555,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F04ADFA30DBDC377CA19E6C4 /* Pods-bibliogame.release.xcconfig */;
+			baseConfigurationReference = E1DF325241A4BDED4DE95D29 /* Pods-bibliogame.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
