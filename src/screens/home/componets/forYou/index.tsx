@@ -1,32 +1,42 @@
 import * as React from 'react';
 import {View, Text, StyleSheet, Image, TouchableOpacity, FlatList} from 'react-native';
 import Icon from 'react-native-vector-icons/Feather';
-import Avatar from './../../../../assets/avatar.png';
+
 
 const books = [
   {
-    title: "livro1",
-    image:  <Image source={require('./../../../../assets/avatar.png')}/>,
+    title: "A cabana",
+    image:  <Image source={require('./../../../../assets/cabana.png')}/>,
+    time: 10,
     id: 1,
   },
   {
-    title: "livro2",
-    image:  <Image source={require('./../../../../assets/avatar.png')}/>,
+    title: "Admirável mundo novo",
+    image:  <Image source={require('./../../../../assets/AdmiravelMundoNovo.png')}/>,
+    time: 10,
     id: 2,
-  },         
+  }, 
+  {
+    title: "livro3",
+    image:  <Image source={require('./../../../../assets/cabana.png')}/>,
+    time:10,
+    id: 3,
+  },        
 ];
 interface ItemProps {
   title: string;
   image: string;
   id: number;
+  time: number;
 }
 const Item = (item: ItemProps) => {
-  console.log("kasokdso",item)
+
   return (
     <View style={styles.item}>
       {item.image}
       {/* <Image source={require(`./../../../../assets/${image}`)}/> */}
-      <Text style={styles.title}>{item.title}</Text>
+      <Text style={StyleSheet.flatten([styles.title, {fontWeight: 900}])}>{item.title}</Text>
+      <Text>{item.time + "min"}</Text>
     </View>
   );
 }
@@ -58,12 +68,12 @@ const ForYou = () => {
       <View style={styles.booksForYou}>
         <View style={styles.book}>
           <View>
-          <FlatList
+            <FlatList style={styles.flat}
             data={books}
             renderItem={({item}) =>  <Item {...item}  /> }
             keyExtractor={item => item.id}
             horizontal
-          />
+            />
           </View>
         </View>
       </View>
@@ -80,9 +90,20 @@ const styles = StyleSheet.create({
   headerForYou: {
     flexDirection: 'row',
     justifyContent: 'space-between',
+    marginBottom: 22
   },
   spacebutton: {
     marginHorizontal: 10,
   },
+  item: {
+      marginRight: 24, 
+      alignItems: 'center',
+      justifyContent:'center'
+      
+  },
+  title: {
+    color: "#835525",
+  },
+  
 });
 export default ForYou;

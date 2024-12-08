@@ -1,20 +1,20 @@
-import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, Animated } from 'react-native';
+import React, {useState, useEffect} from 'react';
+import {View, StyleSheet, Animated} from 'react-native';
 
 const ProgressBar = () => {
   const [progress, setProgress] = useState(new Animated.Value(0));
 
   useEffect(() => {
-
     Animated.timing(progress, {
       toValue: 300,
       duration: 1000,
+      useNativeDriver: false,
     }).start();
-  }, []);
+  }, [progress]);
 
   return (
     <View style={styles.container}>
-      <Animated.View style={[styles.bar, { width: progress }]} />
+      <Animated.View style={[styles.bar, {width: progress}]} />
     </View>
   );
 };
